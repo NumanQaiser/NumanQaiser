@@ -1,24 +1,10 @@
-# Hi, I'm Numan Qaiser 👋
+About Me:
+🏆 I've 5+ years of working experience as a Full-Stack Web Developer, with expertise spanning from creating traditional web applications to creating modern SPA, SaaS-based, and FinTech systems.
 
-### Senior Full-Stack AI Engineer | MERN | Next.js | React Native | RAG | LLMs
+I always feel thriving and accomplished while overcoming challenges, and this is one of the reasons why I had chosen this field as my full-time profession 🎯.
 
-I'm a Full-Stack Software Engineer with **5 years of experience** building scalable web applications, SaaS platforms, backend architectures, and AI-powered solutions.
+💻 Tech Stack:
 
-I specialize in taking products from concept to production — designing system architectures, developing robust APIs, building responsive frontends, integrating AI workflows, and managing deployments.
-
-I enjoy solving complex engineering problems and building technology that delivers measurable business impact.
-
-- 🔭 Currently working as a **Senior Software Engineer at Techlio**
-- 🤖 Exploring **LLMs, RAG, Embeddings, and Vector Databases**
-- ⚙️ Experienced in building scalable SaaS and automation-driven applications
-- ☁️ Working with AWS, Docker, CI/CD, and cloud deployments
-- 🌱 Continuously learning and experimenting with AI engineering
-- 💬 Ask me about MERN, Next.js, Node.js, PostgreSQL, System Design, and AI integrations
-- 📍 Based in Lahore, Pakistan
-
----
-
-## 🛠️ Tech Stack & Expertise
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
