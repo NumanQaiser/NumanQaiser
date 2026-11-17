@@ -1,9 +1,9 @@
-About Me:
+### **About Me:**
 🏆 I've 5+ years of working experience as a Full-Stack Web Developer, with expertise spanning from creating traditional web applications to creating modern SPA, SaaS-based, and FinTech systems.
 
 I always feel thriving and accomplished while overcoming challenges, and this is one of the reasons why I had chosen this field as my full-time profession 🎯.
 
-💻 Tech Stack:
+### 💻 **Tech Stack:**
 
 
 ### Languages & Frameworks
