@@ -1,14 +1,38 @@
-# Hi, I'm Syed Numan Qaiser Naqvi 👋
 
-### Senior Full-Stack AI Engineer | Product Development Lead | MERN | Next.js | RAG | LLMs | Vector DB
+<div>
+  <h1 align="center">Hi, I'm Syed Numan Qaiser Naqvi 👋</h1>
+  <p align="center">
+  
+  <a href="https://numannaqvi.com">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:numannaqvi24@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I am a **Full-Stack Software Engineer with 5 years of experience** building scalable web applications, enterprise-grade SaaS platforms, and AI-powered solutions.
+</div>
 
-I specialize in taking products from **idea to production**  architecting systems, developing scalable backend services, building intuitive frontend experiences, integrating AI-powered workflows, and managing cloud deployments.
+<h3 align="center">
+  Senior Full-Stack AI Engineer | Product Development Lead
+</h3>
 
-Beyond writing code, I have experience overseeing product development, leading engineering teams, reviewing code, coordinating with clients, and making technical decisions that translate business requirements into reliable software.
+<p align="center">
+  MERN | Next.js | RAG | LLMs | Vector DB
+</p>
 
-🌐 **Portfolio:** [numannaqvi.com](https://numannaqvi.com)
+
+I am a Full-Stack AI Engineer with over 5 years of experience building web and mobile applications. I have worked with startups and multinational organizations, taking products from scratch to production, modernizing legacy systems, and migrating them to modern frameworks. With a strong focus on delivering scalable solutions and business value, I am confident I can be a valuable addition to your team and contribute to building a successful product.
+
+*What I bring to the table:*
+
+- 🏗️ End-to-end product development, from architecture to production.
+- 👨‍💻 Technical leadership, team coordination, code reviews, and mentoring.
+- ⚡ Scalable backend architecture, API development, and database optimization.
+- 🤖 AI integrations, LLM-powered workflows, RAG, and automation.
+- ☁️ Cloud infrastructure, deployment strategies, and DevOps.
+- 🤝 Client communication and translating business requirements into technical solutions.
+
 
 ## 🛠️ Technical Skills
 
@@ -47,11 +71,6 @@ Beyond writing code, I have experience overseeing product development, leading e
 
 I'm always open to connecting with founders, recruiters, engineering leaders, and businesses looking to build scalable software products or integrate AI into their workflows.
 
-🌐 **Portfolio:** [numannaqvi.com](https://numannaqvi.com)
-📧 **Email:** [numannaqvi24@gmail.com](mailto:numannaqvi24@gmail.com)
-   **Phone:** +92 316 457 8562
-
----
-
-
-⭐ *Building scalable software, solving real-world problems, and exploring the future of AI engineering.*
+- **Portfolio:** [numannaqvi.com](https://numannaqvi.com)
+- **Email:** [numannaqvi24@gmail.com](mailto:numannaqvi24@gmail.com)
+- **Phone:** +92 316 457 8562
