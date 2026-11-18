@@ -14,9 +14,9 @@
     <a href="mailto:numannaqvi24@gmail.com">
       <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="tel:+923164578562">
-  <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<a href="https://wa.me/923164578562" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp%20Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
   </p>
 
 </div>
