@@ -2,9 +2,9 @@
 <div align="center">
 
   <p>
-    <strong style="font-size: 100px;">
+    <h3 style="font-size: 100px;">
       Hi, I'm  Numan Qaiser Naqvi 👋
-    </strong>
+    </h3>
   </p>
 
   <p>
