@@ -23,9 +23,9 @@
 
 <hr />
 
-<h3 align="center">
+<h4 align="center">
   Senior Full-Stack AI Engineer | Product Development Lead
-</h3>
+</h4>
 
 <p align="center">
   MERN | Next.js | RAG | LLMs | Vector DB
