@@ -1,17 +1,27 @@
 
-<div>
-  <h1 align="center">Hi, I'm Syed Numan Qaiser Naqvi 👋</h1>
-  <p align="center">
-  
-  <a href="https://numannaqvi.com">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<div align="center">
+
+  <p>
+    <strong style="font-size: 100px;">
+      Hi, I'm  Numan Qaiser Naqvi 👋
+    </strong>
+  </p>
+
+  <p>
+    <a href="https://numannaqvi.com">
+      <img src="https://img.shields.io/badge/Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+    <a href="mailto:numannaqvi24@gmail.com">
+      <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="tel:+923164578562">
+  <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:numannaqvi24@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  </p>
 
 </div>
+
+<hr />
 
 <h3 align="center">
   Senior Full-Stack AI Engineer | Product Development Lead
