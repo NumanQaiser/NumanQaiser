@@ -2,12 +2,23 @@
 <div align="center">
 
   <p>
-    <h3 style="font-size: 100px;">
+    <h1 style="font-size: 100px;">
       Hi, I'm  Numan Qaiser Naqvi 👋
-    </h3>
+    </h1>
   </p>
 
-  <p>
+</div>
+
+
+<h4 align="center">
+  Senior Full-Stack AI Engineer | Product Development Lead
+</h4>
+
+<p align="center">
+  MERN | Next.js | React Native | RAG | LLMs | Vector DB | AI
+</p>
+
+  <p align="center">
     <a href="https://numannaqvi.com">
       <img src="https://img.shields.io/badge/Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
@@ -18,19 +29,9 @@
   <img src="https://img.shields.io/badge/WhatsApp%20Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
   </p>
-
-</div>
-
-<hr />
-
-<h4 align="center">
-  Senior Full-Stack AI Engineer | Product Development Lead
+<h4 >
+ About me
 </h4>
-
-<p align="center">
-  MERN | Next.js | RAG | LLMs | Vector DB
-</p>
-
 
 I am a Full-Stack AI Engineer with over 5 years of experience building web and mobile applications. I have worked with startups and multinational organizations, taking products from scratch to production, modernizing legacy systems, and migrating them to modern frameworks. With a strong focus on delivering scalable solutions and business value, I am confident I can be a valuable addition to your team and contribute to building a successful product.
 
